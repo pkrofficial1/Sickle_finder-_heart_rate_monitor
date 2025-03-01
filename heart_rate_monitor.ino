@@ -33,15 +33,15 @@ String bpmStatus = "Normal Heart Rate";
 String spo2Status = "Normal Oxygen Level";
 
 // 🛜 WiFi Credentials
-const char* wifi_ssid = "pkr";
-const char* wifi_password = "Test@1234";
+const char* wifi_ssid = "hotspot_name";
+const char* wifi_password = "password";
 
 // 🔗 MQTT Broker Details
-const char* mqtt_server = "9f691d9046244be4883c438940c58759.s1.eu.hivemq.cloud";
-const int mqtt_port = 8883;
-const char* mqtt_username = "qwerty";
-const char* mqtt_password = "Test@1234";
-const char* mqtt_topic = "demo";
+const char* mqtt_server = "url";
+const int mqtt_port = ;
+const char* mqtt_username = " ";
+const char* mqtt_password = " ";
+const char* mqtt_topic = " ";
 
 WiFiClientSecure espClient;
 PubSubClient client(espClient);
