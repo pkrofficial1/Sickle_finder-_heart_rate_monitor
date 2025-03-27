@@ -1,6 +1,7 @@
 # Sickle_finder-_heart_rate_monitor
 
 https://magenta-hummingbird-3574af.netlify.app/ - see this website
+https://www.youtube.com/watch?v=QKQ53SDpylQ
 
 ![image](https://github.com/user-attachments/assets/87b7935b-08ff-4c20-a1e1-5bf714b9fbfa)
 
